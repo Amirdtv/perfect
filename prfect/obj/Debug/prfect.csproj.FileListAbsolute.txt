@@ -1,0 +1,8 @@
+C:\Users\AMIR\OneDrive\Desktop\emt\prfect\prfect\bin\Debug\prfect.exe.config
+C:\Users\AMIR\OneDrive\Desktop\emt\prfect\prfect\bin\Debug\prfect.exe
+C:\Users\AMIR\OneDrive\Desktop\emt\prfect\prfect\bin\Debug\prfect.pdb
+C:\Users\AMIR\OneDrive\Desktop\emt\prfect\prfect\obj\Debug\prfect.csproj.AssemblyReference.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\prfect\prfect\obj\Debug\prfect.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\prfect\prfect\obj\Debug\prfect.csproj.CoreCompileInputs.cache
+C:\Users\AMIR\OneDrive\Desktop\emt\prfect\prfect\obj\Debug\prfect.exe
+C:\Users\AMIR\OneDrive\Desktop\emt\prfect\prfect\obj\Debug\prfect.pdb
